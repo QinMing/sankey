@@ -1,1 +1,4 @@
-This is only a redirection link to this repo: https://github.com/qinming/d3-sankey-with-highlighting
+This is only a redirection link:
+
+http://qinming.github.io/sankey  --->   http://qinming.github.io/d3-sankey-with-highlighting/
+
